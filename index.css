@@ -1,0 +1,143 @@
+body{
+    font-family: Helvetica, sans-serif;
+    margin: auto;
+    width: 100%;
+}
+main{
+    height: 70%;
+    background-color: #FFCD9E;
+    
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    display: flex;
+    height: 30%;
+    background: #282828;
+
+    color: white;
+    
+    justify-content: space-between;
+}
+
+
+
+
+    
+
+form{
+    padding-top: 5%;
+
+}
+section{
+    width: 100;
+    padding: 5% 10%;
+    font-size: large;
+    word-spacing: 2px;
+    color: #282828;
+    line-height: 30px;
+    
+}
+
+h1{
+    line-height: 40px;
+   
+font-size: 32px;
+font-weight: 700;
+
+
+    
+
+}
+.best{
+    width: 344px;
+    height: 61px;
+    top: 479px;
+    margin-left: 40px;
+    font-size: 15px;
+    font-weight: 30;
+    line-height: 26px;
+    
+    text-align: center;
+    color: #FFFFFF;
+}
+
+input{
+    width: 260px;
+    height: 30px;
+    
+
+}
+
+button{
+    height: 52px;
+    width: 125px;
+    
+
+    
+}
+
+.par{
+    color: #484848;
+}
+aside{
+    width: 575px;
+    top: 20px;
+    left: 10000px;
+    padding: 66.4px, 99px, 66.15px, 91.87px
+    
+}
+.footer-right{
+    text-align: right;
+    padding: 2%;
+    padding-right: 10%;
+    padding-top: 3%;
+    color: white;
+}
+.footer-left{
+    padding: 3%;
+    padding-left: 15%;
+    color: white;
+    line-height: 15px;
+    
+}
+
+h3{
+   
+font-size: 20px;
+
+
+
+}
+button{
+    color: white;
+    text-align: center;
+    background: #282828;
+
+    border: 3px solid #282828;
+
+    border-radius: 5px;
+    padding: 2% 4%;
+}
+input{
+    border: 3px solid black;
+    padding: 2%;
+    font-weight: bold;
+    border-radius: 5px;
+}
+b{
+    color: white;
+}
+
+.p1{
+    width: 216px;
+
+}
+
+.p2{
+    width: 220px;
+}
+
+.p3{
+    width: 236px;
+}
